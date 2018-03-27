@@ -10,7 +10,7 @@ int main(int argc, char const *argv[]) {
   txt = malloc(text_size * sizeof(char));
 
   while(getline(&txt, &text_size, stdin)){
-      if (strstr(txt2, "wagon")){
+      if (strstr(txt, "wagon")){
         printf("%s", txt);
         licznik++;
       }
