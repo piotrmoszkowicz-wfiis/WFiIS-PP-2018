@@ -1,0 +1,2 @@
+Argument [0] = /var/folders/__/8lj_n5c510x_z54gc_4671100000gn/T/2
+Integer: 0, Float: 0.00

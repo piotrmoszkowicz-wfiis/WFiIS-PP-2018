@@ -1,0 +1,28 @@
+Ilosc znakow: 2198
+Ilosc linii: 73
+Ilosc wystapien A = 162
+Ilosc wystapien B = 22
+Ilosc wystapien C = 63
+Ilosc wystapien D = 48
+Ilosc wystapien E = 98
+Ilosc wystapien F = 9
+Ilosc wystapien G = 30
+Ilosc wystapien H = 18
+Ilosc wystapien I = 125
+Ilosc wystapien J = 28
+Ilosc wystapien K = 73
+Ilosc wystapien L = 31
+Ilosc wystapien M = 34
+Ilosc wystapien N = 49
+Ilosc wystapien O = 126
+Ilosc wystapien P = 50
+Ilosc wystapien Q = 0
+Ilosc wystapien R = 55
+Ilosc wystapien S = 69
+Ilosc wystapien T = 100
+Ilosc wystapien U = 38
+Ilosc wystapien V = 0
+Ilosc wystapien W = 57
+Ilosc wystapien X = 0
+Ilosc wystapien Y = 52
+Ilosc wystapien Z = 86

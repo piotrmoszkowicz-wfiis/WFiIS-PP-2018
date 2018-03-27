@@ -1,0 +1,5 @@
+I pełno ludzi w każdym wagonie,
+A czwarty wagon pełen bananów,
+A tych wagonów jest ze czterdzieści,
+Szarpnęła wagony i ciągnie z mozołem,
+Ilosc wystapien wagonu: 4
