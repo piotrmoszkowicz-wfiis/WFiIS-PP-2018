@@ -1,0 +1,1 @@
+Prosze podac poprawne argumenty - jako pierwszy liczbe, jako drugi rekurencja/iteracja

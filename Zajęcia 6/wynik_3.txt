@@ -1,0 +1,3 @@
+Podaj a i b
+Suma = 40
+Roznica = -20
