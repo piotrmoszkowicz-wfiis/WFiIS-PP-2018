@@ -34,7 +34,7 @@ int main(int argc, char const *argv[])
     scanf("%s", client.imie);
     scanf("%s", client.nazwisko);
     scanf("%s", client.postcode);
-    scanf("%d", client.wiek);
+    scanf("%d", &client.wiek);
 
     clients[i] = client;
     i++;
