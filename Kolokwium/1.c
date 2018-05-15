@@ -33,7 +33,7 @@ int main(int argc, char const *argv[]) {
     strcpy(tab[i], str);
   }
 
-  qsort(tab[0], 100, 81, compareLen);
+  qsort(tab, 100, 81, compareLen);
 
   for(i=0;i<100;i++){
     printf("%s\n", tab[i]);
