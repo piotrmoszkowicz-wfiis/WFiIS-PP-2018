@@ -1,0 +1,19 @@
+Wstawiam elementy na stos.
+Wstawiam element na stos element 8.
+Wstawiam element na stos element 23.
+Wstawiam element na stos element 123.
+Wypisuje zawartosc stosu.
+Lista od poczatku -> {123, 23, 8,}
+Usuwam elementy ze stosu.
+Pop()=123
+Wypisuje zawartosc stosu.
+Lista od poczatku -> {23, 8, }
+Usuwam element ze stosu.
+Pop()=23
+Wypisuje zawartosc stosu.
+Lista od poczatku -> {8,}
+Wstawiam element na stos element 1223.
+Wstawiam element na stos element 12.
+Wstawiam element na stos element 787.
+Wypisuje zawartosc stosu.
+Lista od poczatku -> {787, 12, 1223, 8,}

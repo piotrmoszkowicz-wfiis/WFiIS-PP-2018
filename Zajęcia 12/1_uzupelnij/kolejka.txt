@@ -1,0 +1,17 @@
+Wstawiam elementy do kolejki
+Dodaje do kolejki element: 8.
+Dodaje do kolejki element: 23.
+Dodaje do kolejki element: 123.
+Dodaje do kolejki element: 423.
+Wypisuje elementy kolejki
+Lista od poczatku -> {8, 23, 123, 423, }
+Usuwam elementy z kolejki
+Dequeue()=8
+Dequeue()=23
+Wypisuje elementy kolejki
+Lista od poczatku -> {123, 423, }
+Dodaje do kolejki element: 3.
+Dodaje do kolejki element: 45.
+Dequeue()=123
+Wypisuje elementy kolejki
+Lista od poczatku -> {423, 3, 45, }
