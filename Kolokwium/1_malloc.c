@@ -3,14 +3,6 @@
 #include <time.h>
 #include <string.h>
 
-int compareLen(const void *a, const void *b)
-{
-  int lenA = strlen((char *)a);
-  int lenB = strlen((char *)b);
-
-  return lenA - lenB;
-}
-
 int compareAlfa(const void *a, const void *b)
 {
   const char *pa = *(const char **)a;
