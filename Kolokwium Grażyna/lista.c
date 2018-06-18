@@ -33,7 +33,6 @@ struct tnode *cyklDeleteMinus(struct tnode *head)
   }
 
   lastElement = curElement;
-  printf("lev: %d\n", lastElement->value);
 
   if (head->value < 0)
   {
