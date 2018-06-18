@@ -15,10 +15,9 @@ void printWector(struct wector w)
 int main(int argc, char const *argv[])
 {
   char nameOfFile[50];
-  struct wector tempWector;
   struct wector tabOfWectors[6];
   FILE *file1;
-  int i, j;
+  int i;
 
   srand(time(NULL));
 
@@ -35,11 +34,9 @@ int main(int argc, char const *argv[])
     y = rand() % 10;
     z = rand() % 10;
 
-    tempWector.x = x;
-    tempWector.y = y;
-    tempWector.z = z;
-
-    tabOfWectors[i] = tempWector;
+    tabOfWectors[i].x = x;
+    tabOfWectors[i].y = y;
+    tabOfWectors[i].z = z;
   }
 
   for (i = 0; i < 6; i++)

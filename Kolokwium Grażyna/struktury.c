@@ -14,7 +14,6 @@ void printWector(struct wector w)
 int main(int argc, char const *argv[])
 {
   char nameOfFile[50];
-  struct wector *tempWector;
   struct wector tabOfWectors[2][3];
   FILE *file1;
   int i, j;
