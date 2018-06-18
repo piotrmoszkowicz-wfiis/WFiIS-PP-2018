@@ -19,6 +19,7 @@ struct tnode *cyklDeleteMinus(struct tnode *head)
 {
   struct tnode *curElement = head;
   struct tnode *nextElement = head->next;
+  struct tnode *lastElement;
 
   while (nextElement != NULL)
   {
@@ -31,12 +32,17 @@ struct tnode *cyklDeleteMinus(struct tnode *head)
     nextElement = curElement->next;
   }
 
+  lastElement = curElement;
+  printf("lev: %d\n", lastElement->value);
+
   if (head->value < 0)
   {
     curElement = head->next;
     free(head);
     head = curElement;
   }
+
+  lastElement->next = head;
 
   return head;
 }
