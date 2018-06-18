@@ -71,7 +71,7 @@ struct tnode *cyklDeleteMinus(struct tnode *head)
     return NULL;
   }
 
-  //lastElement->next = head;
+  lastElement->next = head;
 
   return head;
 }
